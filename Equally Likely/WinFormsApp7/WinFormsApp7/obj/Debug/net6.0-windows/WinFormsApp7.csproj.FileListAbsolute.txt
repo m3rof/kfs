@@ -1,0 +1,68 @@
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\BodyAssem\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\BodyAssem\Downloads\Desktop\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\youss\OneDrive\سطح المكتب\WinFormsApp7\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\youss\OneDrive\سطح المكتب\DSS\Equally Likely\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
